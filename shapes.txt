@@ -2,3 +2,6 @@ circle
 square 
 triangle
 rectangle
+heart
+parallelogram
+oval
