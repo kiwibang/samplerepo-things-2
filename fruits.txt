@@ -1,5 +1,6 @@
 apple
 berries
+strawberry
 cherry
 pear
 banana
